@@ -19,6 +19,7 @@ Requirement
 - hcitool
 - rfcomm
 - l2ping
+- xprintidle
 
 
 Configuration
